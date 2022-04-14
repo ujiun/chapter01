@@ -1,5 +1,6 @@
 package com.javaex.ex01;
 
+
 public class Ex04 {
 	public static void main(String[] args) {
 		
@@ -17,6 +18,7 @@ public class Ex04 {
 		
 		String str = "안녕하세요";
 		System.out.println(str);
-				
+		
+		
 	}
 }
