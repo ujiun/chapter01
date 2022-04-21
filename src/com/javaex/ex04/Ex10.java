@@ -9,7 +9,7 @@ public class Ex10 {
 				
 				continue;
 			}
-			System.out.println("i");
+			System.out.println(i);
 		}
 		System.out.println("종료");
 	}
